@@ -1,16 +1,24 @@
 {
-  "posts": [
+  "kategori": [
     {
       "id": 1,
-      "title": "Post 1"
+      "title": "Lang"
     },
     {
       "id": 2,
-      "title": "Post 2"
+      "title": "Istwa"
     },
     {
       "id": 3,
-      "title": "Post 3"
+      "title": "Kilti"
+    },
+    {
+      "id": 4,
+      "title": "Syans"
+    },
+    {
+      "id": 5,
+      "title": "Teknoloji"
     }
   ],
   "comments": [
