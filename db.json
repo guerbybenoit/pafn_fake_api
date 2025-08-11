@@ -42,6 +42,13 @@
       "code": "ANG-1000",
       "description": "Kou sa ap pèmèt ou aprann kèk bagay sou lang anglè pou w ka byen konprann li.",
       "category": "Lang"
+    },
+    {
+      "id": 4,
+      "title": "Entwodiksyon sou istwa antiyè yo",
+      "code": "IST-1000",
+      "description": "Kou sa ap pèmèt ou aprann kèk bagay sou antiyè yo.",
+      "category": "Istwa"
     }
   ],
   "profile": {
