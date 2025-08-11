@@ -1,5 +1,5 @@
 {
-  "kategori": [
+  "categories": [
     {
       "id": 1,
       "title": "Lang"
@@ -21,16 +21,27 @@
       "title": "Teknoloji"
     }
   ],
-  "comments": [
+  "courses": [
     {
       "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "title": "Entwodiksyon nan lang Kreyòl",
+      "code": "KRE-1000",
+      "description": "Kou sa ap pèmèt ou aprann kèk bagay sou lang kreyòl la pou w ka byen konprann li.",
+      "category": "Lang"
     },
     {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
+      "id": 1,
+      "title": "Entwodiksyon nan lang Fransè",
+      "code": "FRA-1000",
+      "description": "Kou sa ap pèmèt ou aprann kèk bagay sou lang fransè a pou w ka byen konprann li.",
+      "category": "Lang"
+    },
+    {
+      "id": 1,
+      "title": "Entwodiksyon nan lang Anglè",
+      "code": "ANG-1000",
+      "description": "Kou sa ap pèmèt ou aprann kèk bagay sou lang anglè pou w ka byen konprann li.",
+      "category": "Lang"
     }
   ],
   "profile": {
