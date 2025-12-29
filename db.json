@@ -1,158 +1,103 @@
 {
-  "utilisateurs": [
-    {
-    "u_id": 1,
-    "u_pseudo": "Boby",
-    "u_password": "$2b$12$RidDILLu.Tl4k9cob52u7.dQ5nE0AYr/qJGZO4cTU6ME6UoaqL.cO",
-    "u_genre": "M",
-    "u_niveau_etude": "Bacc +2",
-    "u_est_actif": "Oui",
-    "u_status": "Validé",
-    "u_date_creation": "2025-12-01"
-  },
-  {
-    "u_id": 2,
-    "u_pseudo": "Bob",
-    "u_password": "$2b$12$9gM7aiHSmP.LlOciI4HBqetcUc.xrDkerWQRMFR9t0ka9cCFmGr3C",
-    "u_genre": "M",
-    "u_niveau_etude": "Bacc +3",
-    "u_est_actif": "Oui",
-    "u_status": "Validé",
-    "u_date_creation": "2025-12-01"
-  },
-  {
-    "u_id": 3,
-    "u_pseudo": "Sarah",
-    "u_password": "$2b$12$1NNZO491qvPRDwsXXi2SWuDuf1SteimlruQAW3PHy7WH8tZaTEG0i",
-    "u_genre": "F",
-    "u_niveau_etude": "Philo",
-    "u_est_actif": "Oui",
-    "u_status": "Validé",
-    "u_date_creation": "2025-12-01"
-  },
-  {
-    "u_id": 4,
-    "u_pseudo": "Betty",
-    "u_password": "$2b$12$40rf./7PnZVWogKAVCmGn.Fl3aUrIRw7zI2mUD/syaIvIDHR1Y5u2",
-    "u_genre": "F",
-    "u_niveau_etude": "Maitrise",
-    "u_est_actif": "Non",
-    "u_status": "En attente",
-    "u_date_creation": "2025-12-01"
-  },
-  {
-    "u_id": 5,
-    "u_pseudo": "Diana",
-    "u_password": "$2b$12$zn6Hlkoj/kMQs.tns/xU7eHlR61ZC3JNLnnTljKp54BZNhMHQjRM.",
-    "u_genre": "F",
-    "u_niveau_etude": "Rhéto",
-    "u_est_actif": "Oui",
-    "u_status": "Validé",
-    "u_date_creation": "2025-12-01"
-  },
-  {
-    "u_id": 6,
-    "u_pseudo": "Sam",
-    "u_password": "$2b$12$vjH5QX/QAcrSrXXEV7rO5.ecCKUSbKeHssXCmGXCLH4HZk0kuLAZ2",
-    "u_genre": "M",
-    "u_niveau_etude": "Bacc +1",
-    "u_est_actif": "Oui",
-    "u_status": "Validé",
-    "u_date_creation": "2025-12-01"
-  },
-  {
-    "u_id": 7,
-    "u_pseudo": "Daniella",
-    "u_password": "$2b$12$46gnet1ThXfahZmrFK9yCeWOrMi7tJhISv81J.cOQR53I5/2R4YHK",
-    "u_genre": "F",
-    "u_niveau_etude": "Bacc +4",
-    "u_est_actif": "Oui",
-    "u_status": "Validé",
-    "u_date_creation": "2025-12-01"
-  },
-  {
-    "u_id": 8,
-    "u_pseudo": "James",
-    "u_password": "$2b$12$RUxIqdHrzeMZJb6QevJZJODlY6GqHs0RBP77B.t3eh1sHqFKkExg.",
-    "u_genre": "M",
-    "u_niveau_etude": "Philo",
-    "u_est_actif": "Oui",
-    "u_status": "Validé",
-    "u_date_creation": "2025-12-01"
-  },
-  {
-    "u_id": 9,
-    "u_pseudo": "Véronica",
-    "u_password": "$2b$12$xwV8x9fOKXj0ItTvXqn0W.QgV.ZBcGl9OeHMd.ydACqW1woSLqjqS",
-    "u_genre": "F",
-    "u_niveau_etude": "Doctorat",
-    "u_est_actif": "Oui",
-    "u_status": "Validé",
-    "u_date_creation": "2025-12-01"
-  },
-  {
-    "u_id": 10,
-    "u_pseudo": "Antoinette",
-    "u_password": "$2b$12$YMgQDHiN3PSKxfYGZ.1Ryet4NbsIdnxMs3k5dtMPcJosFPCgGZkNi",
-    "u_genre": "F",
-    "u_niveau_etude": "Seconde",
-    "u_est_actif": "Oui",
-    "u_status": "Validé",
-    "u_date_creation": "2025-12-01"
-  }
-  ],
   "categories": [
     {
-      "id": 1,
-      "title": "Lang"
+      "cat_id": 1,
+      "cat_titre": "Lang",
+      "cat_description": "..."
     },
     {
-      "id": 2,
-      "title": "Istwa"
+      "cat_id": 2,
+      "cat_titre": "Istwa",
+      "cat_description": "..."
     },
     {
-      "id": 3,
-      "title": "Kilti"
+      "cat_id": 3,
+      "cat_titre": "Kilti",
+      "cat_description": "..."
     },
     {
-      "id": 4,
-      "title": "Syans"
+      "cat_id": 4,
+      "cat_titre": "Syans",
+      "cat_description": "..."
     },
     {
-      "id": 5,
-      "title": "Teknoloji"
+      "cat_id": 5,
+      "cat_titre": "Teknoloji",
+      "cat_description": "..."
     }
   ],
   "courses": [
     {
-      "id": 1,
-      "title": "Entwodiksyon nan lang Kreyòl",
-      "code": "KRE-1000",
-      "description": "Kou sa ap pèmèt ou aprann kèk bagay sou lang kreyòl la pou w ka byen konprann li.",
-      "category": "Lang"
+      "cours_id": 1,
+      "cours_titre": "Entwodiksyon nan lang Kreyòl",
+      "cours_code": "KRE-1000",
+      "cours_description": "Kou sa ap pèmèt ou aprann kèk bagay sou lang kreyòl la pou w ka byen konprann li.",
+      "cours_category": "Lang"
     },
     {
-      "id": 2,
-      "title": "Entwodiksyon nan lang Fransè",
-      "code": "FRA-1000",
-      "description": "Kou sa ap pèmèt ou aprann kèk bagay sou lang fransè a pou w ka byen konprann li.",
-      "category": "Lang"
+      "cours_id": 2,
+      "cours_titre": "Entwodiksyon nan lang Fransè",
+      "cours_code": "FRA-1000",
+      "cours_description": "Kou sa ap pèmèt ou aprann kèk bagay sou lang fransè a pou w ka byen konprann li.",
+      "cours_category": "Lang"
     },
     {
-      "id": 3,
-      "title": "Entwodiksyon nan lang Anglè",
-      "code": "ANG-1000",
-      "description": "Kou sa ap pèmèt ou aprann kèk bagay sou lang anglè pou w ka byen konprann li.",
-      "category": "Lang"
+      "cours_id": 3,
+      "cours_titre": "Entwodiksyon nan lang Anglè",
+      "cours_code": "ANG-1000",
+      "cours_description": "Kou sa ap pèmèt ou aprann kèk bagay sou lang anglè pou w ka byen konprann li.",
+      "cours_category": "Lang"
     },
     {
-      "id": 4,
-      "title": "Entwodiksyon sou istwa antiyè yo",
-      "code": "IST-1000",
-      "description": "Kou sa ap pèmèt ou aprann kèk bagay sou antiyè yo.",
-      "category": "Istwa"
+      "cours_id": 4,
+      "cours_titre": "Entwodiksyon sou istwa antiyè yo",
+      "cours_code": "IST-1000",
+      "cours_description": "Kou sa ap pèmèt ou aprann kèk bagay sou antiyè yo.",
+      "cours_category": "Istwa"
     }
   ],
+  "modules": [
+    {
+      "mod_id": 1,
+      "mod_titre": "...",
+      "mod_description": "...",
+      "mod_type": "...",
+      "mod_url": "...",
+      "mod_cours_id": 1
+    },
+    {
+      "mod_id": 2,
+      "mod_titre": "...",
+      "mod_description": "...",
+      "mod_type": "...",
+      "mod_url": "...",
+      "mod_cours_id": 2
+    },
+    {
+      "mod_id": 3,
+      "mod_titre": "...",
+      "mod_description": "...",
+      "mod_type": "...",
+      "mod_url": "...",
+      "mod_cours_id": 3
+    },
+    {
+      "mod_id": 4,
+      "mod_titre": "...",
+      "mod_description": "...",
+      "mod_type": "...",
+      "mod_url": "...",
+      "mod_cours_id": 4
+    },
+    {
+      "mod_id": 5,
+      "mod_titre": "...",
+      "mod_description": "...",
+      "mod_type": "...",
+      "mod_url": "...",
+      "mod_cours_id": 1
+    }
+  ]
   "profile": {
     "name": "typicode"
   }
