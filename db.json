@@ -1,29 +1,29 @@
 {
   "categories": [
     {
-      "cat_id": 1,
-      "cat_titre": "Lang",
-      "cat_description": "A"
+      "catId": 1,
+      "catTitre": "Lang",
+      "catDescription": "A"
     },
     {
-      "cat_id": 2,
-      "cat_titre": "Istwa",
-      "cat_description": "B"
+      "catId": 2,
+      "catTitre": "Istwa",
+      "catDescription": "B"
     },
     {
-      "cat_id": 3,
-      "cat_titre": "Kilti",
-      "cat_description": "C"
+      "catId": 3,
+      "catTitre": "Kilti",
+      "catDescription": "C"
     },
     {
-      "cat_id": 4,
-      "cat_titre": "Syans",
-      "cat_description": "D"
+      "catId": 4,
+      "catTitre": "Syans",
+      "catDescription": "D"
     },
     {
-      "cat_id": 5,
-      "cat_titre": "Teknoloji",
-      "cat_description": "E"
+      "catId": 5,
+      "catTitre": "Teknoloji",
+      "catDescription": "E"
     }
   ],
   "courses": [
