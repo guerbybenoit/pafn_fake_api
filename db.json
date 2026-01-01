@@ -3,27 +3,27 @@
     {
       "cat_id": 1,
       "cat_titre": "Lang",
-      "cat_description": "..."
+      "cat_description": "A"
     },
     {
       "cat_id": 2,
       "cat_titre": "Istwa",
-      "cat_description": "..."
+      "cat_description": "B"
     },
     {
       "cat_id": 3,
       "cat_titre": "Kilti",
-      "cat_description": "..."
+      "cat_description": "C"
     },
     {
       "cat_id": 4,
       "cat_titre": "Syans",
-      "cat_description": "..."
+      "cat_description": "D"
     },
     {
       "cat_id": 5,
       "cat_titre": "Teknoloji",
-      "cat_description": "..."
+      "cat_description": "E"
     }
   ],
   "courses": [
