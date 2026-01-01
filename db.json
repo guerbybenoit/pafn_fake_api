@@ -63,7 +63,7 @@
       "mod_description": "...",
       "mod_type": "...",
       "mod_url": "...",
-      "mod_cours_id": 1
+      "mod_cours_code": "KRE-1000"
     },
     {
       "mod_id": 2,
@@ -71,7 +71,7 @@
       "mod_description": "...",
       "mod_type": "...",
       "mod_url": "...",
-      "mod_cours_id": 2
+      "mod_cours_code": "FRA-1000"
     },
     {
       "mod_id": 3,
@@ -79,7 +79,7 @@
       "mod_description": "...",
       "mod_type": "...",
       "mod_url": "...",
-      "mod_cours_id": 3
+      "mod_cours_code": "ANG-1000"
     },
     {
       "mod_id": 4,
@@ -87,7 +87,7 @@
       "mod_description": "...",
       "mod_type": "...",
       "mod_url": "...",
-      "mod_cours_id": 4
+      "mod_cours_code": "IST-1000"
     },
     {
       "mod_id": 5,
@@ -95,7 +95,7 @@
       "mod_description": "...",
       "mod_type": "...",
       "mod_url": "...",
-      "mod_cours_id": 1
+      "mod_cours_code": "KRE-1000"
     }
   ],
   "profile": {
