@@ -54,7 +54,14 @@
       "cours_code": "IST-1000",
       "cours_description": "Kou sa ap pèmèt ou aprann kèk bagay sou antiyè yo.",
       "cours_category": "Istwa"
-    }
+    },
+    {
+      "cours_id": 5,
+      "cours_titre": "Entwodiksyon nan langaj pwogramasyon Python",
+      "cours_code": "TEK-1000",
+      "cours_description": "Kou sa ap pèmèt ou aprann kèk bagay sou langaj pwogramasyon Python pou w ka byen konprann li.",
+      "cours_category": "Teknoloji"
+    },
   ],
   "modules": [
     {
@@ -96,6 +103,14 @@
       "mod_type": "...",
       "mod_url": "...",
       "mod_cours_code": "KRE-1000"
+    },
+    {
+      "mod_id": 6,
+      "mod_titre": "Entwodiksyon",
+      "mod_description": "Pou ou byen kòmanse, konnen baz yo.",
+      "mod_type": "Texte",
+      "mod_url": "Aucun",
+      "mod_cours_code": "TEK-1000"
     }
   ],
   "profile": {
