@@ -111,6 +111,14 @@
       "mod_type": "Texte",
       "mod_url": "Aucun",
       "mod_cours_code": "TEK-1000"
+    },
+    {
+      "mod_id": 7,
+      "mod_titre": "Tip done yo",
+      "mod_description": "Pou ou byen kòmanse, konnen baz yo.",
+      "mod_type": "Texte",
+      "mod_url": "Aucun",
+      "mod_cours_code": "TEK-1000"
     }
   ],
   "profile": {
